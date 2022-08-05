@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="../uxui-week-16/assets/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+        <img src=".//assets/css/img/Crystallogo.png">
+        </div>
+        <nav>
+            <ul>
+                <li><a class="button">Portfolio</a></li>
+                <li><a class="button">About</a></li>
+                <li><a class="button">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="clear-floats">
+        </div>
+    </header>
+    <section class="home-1">
+  <div class="home-1-heading">
+    <h1>Aloha</h1>
+    <h3>Hello, 
+      I am Crystal Gayle</h3>
+    <h5>​I’m a UX/UI Designer during the day and an active surfer in the community during my spare time.
+      I focus on creating experiences that are functional and visually compelling.</h5>
+  </div>
+  <div class="overlay">
+  </div>
+</section>
+<div class="get-worked">
+  <h2>Get Worked</h2>
+  <hr>
+<div class="mennonite">
+  <H3>Mennonite New Life Center</H3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt dolor fusce nullam ultrices ut adipiscing tempus. Egestas euismod et nulla eleifend id erat eu.</p>
+  <a class="button">CASE STUDY</a>
+</div>
+<hr>
+<div class="mennonite">
+  <H3>Canada Council for the Arts</H3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt dolor fusce nullam ultrices ut adipiscing tempus. Egestas euismod et nulla eleifend id erat eu.</p>
+  <a class="button">CASE STUDY</a>
+</div>
+<hr>
+<div class="mennonite">
+  <H3>Travel to the Point</H3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt dolor fusce nullam ultrices ut adipiscing tempus. Egestas euismod et nulla eleifend id erat eu.</p>
+  <a class="button">CASE STUDY</a>
+</div>
+<hr>
+    <div class="project1"></div>
+    <div class="project2"></div>
+    </div>
+</section>
+    <footer>
+      <ul>
+      <h4>Follow My Wave</h4>
+      <button><a href=””><img src="assets/css/img/Linelogo.png"></a></button>
+      <button><a href=””><img src="assets/css/img/Linkedinlogo.png"></a></button>
+      <button><a href=””><img src="assets/css/img/Instagram.png"></a></button>
+      </ul>
+    </footer>
+</body>
+</html>hello there!
