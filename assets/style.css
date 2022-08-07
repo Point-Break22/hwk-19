@@ -134,12 +134,15 @@ h2 {
   }
   .footer{
     height: 130px;
+    width: 100%;
     background-color: #41c1d1;
     font-family: sans-serif;
-    display: inline-block;
+    display: flex;
     justify-content: center;
     text-align: center;
-    width: 100%;
+  }
+  img{
+    float: right;
   }
   .get-worked{
     height: 200px;
@@ -198,8 +201,11 @@ h2 {
   justify-content: center;
   display: inline-block;
 }
-
-
+@media only screen and (max-width: 600px){}
+   .flex-container {
+     display: flex;
+     flex-direction: column;
+   }
 
 
 
